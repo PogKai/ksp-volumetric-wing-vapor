@@ -1,0 +1,14 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio local state
+.vs/
+*.user
+*.suo
+
+# This machine's KSP install and WingtipVortex.dll paths
+local.props
+
+# Release packages
+dist/
